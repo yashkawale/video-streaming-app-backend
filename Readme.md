@@ -1,4 +1,4 @@
-# Youtube Backend
+# Video Streaming Application Backend
 
 ## Tech Stack
 
